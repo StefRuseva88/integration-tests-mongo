@@ -19,6 +19,7 @@
 - **MongoDB Compass**: The GUI for MongoDB used for managing the database.
 - **MongoDB.Driver**: The .NET driver for MongoDB for database interactions.
 - **xUnit**: A unit-testing framework for .NET applications.
+- **nUnit**: A unit-testing framework for .NET applications.
 
 Contributing
 Contributions are welcome! If you have any improvements or bug fixes, feel free to open a pull request.
