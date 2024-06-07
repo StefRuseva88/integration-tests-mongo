@@ -7,7 +7,7 @@
 **MoviesLibraryAPI** is a console-based application developed to manage a collection of movies. It allows users to perform various operations, such as creating, reading, updating, and deleting movies from a database in MongoDB Compass. This application is designed to showcase essential software development concepts and practices.
 
 ### Key Features
-
+ 
 - **Create**: Add new movies to the database.
 - **Read**: Retrieve details of movies from the database.
 - **Update**: Modify existing movie information.
@@ -21,12 +21,12 @@
 - **xUnit**: A unit-testing framework for .NET applications.
 - **nUnit**: A unit-testing framework for .NET applications.
 
-Contributing
+## Contributing
 Contributions are welcome! If you have any improvements or bug fixes, feel free to open a pull request.
 
-License
+## License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-Contact
+## Contact
 For any questions or suggestions, please reach out to the course instructor or open an issue in the repository.
 
