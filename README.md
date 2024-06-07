@@ -13,7 +13,7 @@
 - **Update**: Modify existing movie information.
 - **Delete**: Remove movies from the database.
 
-## Technologies Used
+### Technologies Used
 
 - **.NET Core**: The primary framework used for building the console application.
 - **MongoDB Compass**: The GUI for MongoDB used for managing the database.
@@ -21,12 +21,12 @@
 - **xUnit**: A unit-testing framework for .NET applications.
 - **nUnit**: A unit-testing framework for .NET applications.
 
-## Contributing
+### Contributing
 Contributions are welcome! If you have any improvements or bug fixes, feel free to open a pull request.
 
-## License
+### License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-## Contact
+### Contact
 For any questions or suggestions, please reach out to the course instructor or open an issue in the repository.
 
