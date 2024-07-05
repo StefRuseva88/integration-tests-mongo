@@ -7,7 +7,7 @@
 ---
 ## Project Description
 
-**MoviesLibraryAPI** is a console-based application developed to manage a collection of movies. It allows users to perform CDUD operations, such as creating, reading, updating, and deleting movies from a database in MongoDB Compass. This application is designed to showcase essential software development concepts and practices.
+**MoviesLibraryAPI** is a console-based application developed to manage a collection of movies. It allows users to perform CRUD operations, such as creating, reading, updating, and deleting movies from a database in MongoDB Compass. This application is designed to showcase essential software development concepts and practices.
 
 ## Key Features
  
