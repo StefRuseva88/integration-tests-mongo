@@ -24,6 +24,14 @@
 - **xUnit**: A unit-testing framework for .NET applications.
 - **nUnit**: A unit-testing framework for .NET applications.
 
+## Prerequisites
+
+Before you begin, ensure you have met the following requirements:
+
+- You have installed the latest version of [.NET Core SDK](https://dotnet.microsoft.com/download).
+- You have installed [MongoDB](https://www.mongodb.com/try/download/community) and [MongoDB Compass](https://www.mongodb.com/products/compass).
+- You have an IDE like [Visual Studio](https://visualstudio.microsoft.com/) installed.
+  
 ## Contributing
 Contributions are welcome! If you have any improvements or bug fixes, feel free to open a pull request.
 
