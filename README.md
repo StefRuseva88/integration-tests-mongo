@@ -33,9 +33,6 @@ Before you begin, ensure you have met the following requirements:
 - You have installed [MongoDB](https://www.mongodb.com/try/download/community) and [MongoDB Compass](https://www.mongodb.com/products/compass).
 - You have an IDE like [Visual Studio](https://visualstudio.microsoft.com/) installed.
   
-## Contributing
-Contributions are welcome! If you have any improvements or bug fixes, feel free to open a pull request.
-
 ## License
 This project is licensed under the [MIT License](LICENSE). See the [LICENSE](LICENSE) file for details.
 
